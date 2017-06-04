@@ -12,7 +12,7 @@ It exists primarily to get you started quickly with learning and prototyping in 
 We are unlikely to accept suggestions about how to grow this QuickStart into something it is not.
 Please keep that in mind before posting issues and PRs.
 
-## Updating to a newer version of the Quickstart Repo
+## Updating to a newer version of the Quickstart Repository
 
 From time to time the QuickStart will be enhanced with support for new features or to reflect
 changes to the [official Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html).
